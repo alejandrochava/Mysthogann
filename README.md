@@ -1,1 +1,1 @@
-![visitors]${Mysthogann}.${Mysthogann},(https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+[![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://badges.pufler.dev)
