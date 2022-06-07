@@ -1,1 +1,1 @@
-${Mysthogann}.${Mysthogann},![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+${Mysthogann}.${Mysthogann},!(https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
