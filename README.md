@@ -1,76 +1,49 @@
-<br>
-<br>
-<br>
+# Hi there, I'm Alejandro, a Software Engineering student from Costa Rica. 23 yrs old 👋 
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/soroushchehresa/github-readme-linkedin/master/linkedin-github.png" width="150" />
+- Some of my hobbies other than programming:
+- ⚡I play the guitar since I was 13
+- ⚡I trained taekwondo for 8 years
+- ⚡I used to dance breakdance for a while (I still dance sometimes but it's not a daily thing)
+- ⚡I workout since I was 15 (You can already guess I'm really into excercise related stuf)
 
-# GitHub Readme LinkedIn
-A serverless application to get dynamically generated images from your LinkedIn profile on your GitHub READMEs!
+### Some of my socials in case you wanna talk to me:
 
-</div>
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-<br>
-<br>
+### Languages and Tools:
 
-## Usage
-If you want to use this project on your GitHub profile, I recommend you [fork and deploy it to your own Vercel instance](https://github.com/soroushchehresa/github-readme-linkedin/#deploy-your-own) and use this project from your own URLs.
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
 
-<br>
+<br />
+<br />
 
-## Example
-```MD
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=[YOUR_LINKEDIN_USERNAME]" />
-```
-
-<br>
-
-## Methods
-
-|    URL    |                   Example                   |        Description         |
-| ---------- | ------------------------------------------- | -------------------------- |
-| `/experience` | `[YOUR_DOMAIN]/experience?username=[YOUR_LINKEDIN_USERNAME]` | Your LinkedIn experience section. |
-| `/education` | `[YOUR_DOMAIN]/education?username=[YOUR_LINKEDIN_USERNAME]` | Your LinkedIn education section. |
-| `/skills` | `[YOUR_DOMAIN]/skills?username=[YOUR_LINKEDIN_USERNAME]` | Your LinkedIn skills section. |
-| `/languages` | `[YOUR_DOMAIN]/languages?username=[YOUR_LINKEDIN_USERNAME]` | Your LinkedIn languages section. |
-| `/user` | `[YOUR_DOMAIN]/user?username=[YOUR_LINKEDIN_USERNAME]` | Your Fullname, Headline and Location. |
-
-<br>
-
-## Parameters
-|    Name    |                   Example                   |        Description         |  Required |
-| ---------- | ------------------------------------------- | -------------------------- | --------- |
-| username   | ?username=[YOUR_LINKEDIN_USERNAME]          | Your LinkedIn username.    | YES       |
-| limit      | ?username=[YOUR_LINKEDIN_USERNAME]&limit=10 | Count of the lists items.  | NO        |
-
-<br>
-
-## Deploy your own
-You can deploy and use this project without any errors on your own [Vercel](https://vercel.com) instance by the following steps:
-<details>
- <summary><b>Guide on setting up Vercel 🔨 </b></summary>
- 
- 1. Go to [vercel.com](https://vercel.com)
- 1. Click on `Login`  
-   ![](https://files.catbox.moe/tct1wg.png)
- 1. Sign in with GitHub by pressing `Continue with GitHub`  
-   ![](https://files.catbox.moe/btd78j.jpeg)
- 1. Sign into GitHub and allow access to all repositories, if prompted
- 1. Fork this repo
- 1. Go back to your [Vercel dashboard](https://vercel.com/dashboard)
- 1. Select `Import Project`  
-   ![](https://i.imgur.com/yzVClIY.png)
- 1. Select `Import a Git Repository`  
-   ![](https://i.imgur.com/8E96p4U.png)
- 1. Select root and keep everything as is, just place your LinkedIn cookie called `li_at` as your environment variable named `LINKEDIN_TOKEN` and click `Deploy`
-   ![](https://i.imgur.com/ngBYKat.png)
- 1. You're good to go. See your domains to use the API!
-</details>
-
-<br>
-
-## Technologies
-- [TypeScript](https://github.com/microsoft/TypeScript)
-- [Node.js](https://github.com/nodejs/node)
-- [Express.js](https://github.com/expressjs/express)
-- [Serverless](https://vercel.com)
+---
