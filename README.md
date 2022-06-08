@@ -10,7 +10,7 @@
 
 &nbsp;&nbsp;
 
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mysthogang#gh-dark-mode-only)
+[link![Twitter]](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mysthogang#gh-dark-mode-only)
 &nbsp;&nbsp;
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandrochavarriaba#gh-dark-mode-only)
 &nbsp;&nbsp;
