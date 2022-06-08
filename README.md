@@ -18,21 +18,15 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/Mysthogann#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/Mysthogann#gh-dark-mode-only)
 
-Languages and tools I've used
+Languages and tools I've used <br/>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-Languages and tools I'm currently learning
+Languages and tools I'm currently learning<br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
----
-
 <br />
-<br />
-
-![banner][https://www.canva.com/design/DAFC940tw2U/SvqDnM9AMsdZ5H1hR4-SBA/view?utm_content=DAFC940tw2U&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
-
