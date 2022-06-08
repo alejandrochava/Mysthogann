@@ -10,11 +10,11 @@
 
 &nbsp;&nbsp;
 
-[link![Twitter]](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/mysthogang#gh-dark-mode-only)
-&nbsp;&nbsp;
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandrochavarriaba#gh-dark-mode-only)
-&nbsp;&nbsp;
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Mysthogann#gh-dark-mode-only)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][1]
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2]
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][3]
 
 Languages and tools I've used <br/> <br/>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -28,3 +28,7 @@ Languages and tools I'm currently learning <br/> <br/>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br />
+
+[1]:https://twitter.com/mysthogang#gh-dark-mode-only
+[2]:https://linkedin.com/in/alejandrochavarriaba#gh-dark-mode-only)
+[3]:[https://twitter.com/mysthogang#gh-dark-mode-only](https://instagram.com/Mysthogann#gh-dark-mode-only)
