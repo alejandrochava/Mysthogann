@@ -23,7 +23,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mysthogann&show_icons=true&theme=tokyonight)](https://github.com/Mysthogann/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mysthogann&show_icons=true&theme=tokyonight)](https://github.com/Mysthogann/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mysthogann&layout=compact&theme=tokyonight)](https://github.com/Mysthogann/github-readme-stats) 
 
 [1]: https://twitter.com/mysthogang#gh-dark-mode-only
 [2]: https://linkedin.com/in/alejandrochavarriaba#gh-dark-mode-only
