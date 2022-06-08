@@ -4,7 +4,7 @@
 - ⚡I play the guitar since I was 13
 - ⚡I trained taekwondo for 8 years
 - ⚡I used to dance breakdance for a while (I still dance sometimes but it's not a daily thing)
-- ⚡I workout since I was 15 (You can already guess I'm really into excercise related stuf)
+- ⚡I workout since I was 15 (You can already guess I'm really into excercise related stuff)
 
 ## Some of my socials in case you wanna talk to me:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][1] [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][3]
