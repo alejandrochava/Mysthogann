@@ -27,8 +27,8 @@ Languages and tools I'm currently learning <br/> <br/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br />
+<br/>
 
-[1]:https://twitter.com/mysthogang#gh-dark-mode-only
-[2]:https://linkedin.com/in/alejandrochavarriaba#gh-dark-mode-only)
-[3]:[https://twitter.com/mysthogang#gh-dark-mode-only](https://instagram.com/Mysthogann#gh-dark-mode-only)
+[1]: https://twitter.com/mysthogang#gh-dark-mode-only
+[2]: https://linkedin.com/in/alejandrochavarriaba#gh-dark-mode-only
+[3]: https://instagram.com/Mysthogann#gh-dark-mode-only
