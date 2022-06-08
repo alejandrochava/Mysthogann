@@ -22,6 +22,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mysthogann&show_icons=true&theme=tokyonight)](https://github.com/Mysthogann/github-readme-stats)
+
 [1]: https://twitter.com/mysthogang#gh-dark-mode-only
 [2]: https://linkedin.com/in/alejandrochavarriaba#gh-dark-mode-only
 [3]: https://instagram.com/Mysthogann#gh-dark-mode-only
