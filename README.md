@@ -1,4 +1,5 @@
 ![banner](https://www.canva.com/design/DAFC940tw2U/SvqDnM9AMsdZ5H1hR4-SBA/view?utm_content=DAFC940tw2U&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*)
 
 # Hi there, I'm Alejandro, a Software Engineering student from Costa Rica. 23 yrs old 👋 
 
