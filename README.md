@@ -1,9 +1,5 @@
 ![Alejandro Chavarria (1)](https://user-images.githubusercontent.com/88063702/172511182-2143dbbd-9e40-4f06-899b-4af176ce4553.gif)
 
-
-
-# Hi there, I'm Alejandro, a Software Engineering student from Costa Rica. 23 yrs old 👋 
-
 - Some of my hobbies other than programming:
 - ⚡I play the guitar since I was 13
 - ⚡I trained taekwondo for 8 years
