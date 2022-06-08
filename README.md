@@ -1,4 +1,4 @@
-![Alejandro Chavarria (1)](https://user-images.githubusercontent.com/88063702/172510726-2679c2ad-690b-4ef5-8504-f6283d28a15b.gif)
+![image](https://user-images.githubusercontent.com/88063702/172511096-23a37ae0-506b-49d3-afde-0ab9ed9e0bea.png)
 
 
 # Hi there, I'm Alejandro, a Software Engineering student from Costa Rica. 23 yrs old 👋 
