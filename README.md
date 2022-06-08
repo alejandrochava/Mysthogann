@@ -1,3 +1,4 @@
+[banner]
 # Hi there, I'm Alejandro, a Software Engineering student from Costa Rica. 23 yrs old 👋 
 
 - Some of my hobbies other than programming:
@@ -34,5 +35,7 @@
 
 <br />
 <br />
+
+![banner][https://www.canva.com/design/DAFC940tw2U/SvqDnM9AMsdZ5H1hR4-SBA/view?utm_content=DAFC940tw2U&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel
 
 
