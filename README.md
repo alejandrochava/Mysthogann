@@ -3,7 +3,7 @@
 <p align="center">
   <b>I'm Alejandro, a Software Engineering student</b><br><br>
     <i>
-      Currently finishing my degree and increasing my abilities on problem solving, also enthusiastic     about starting my career as a programmer
+      Currently finishing my degree in Software Engineering as I learn more tools I'm interesed in and also building my portfolio.
     </i>
 </p>
 
