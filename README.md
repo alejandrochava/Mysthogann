@@ -40,7 +40,7 @@ I'm Alejandro, a Software Engineering student deeply passionate about bridging t
 ## 📫 How to reach me:
 
 - LinkedIn: [alejandrochavarria](https://www.linkedin.com/in/alejandrochavarriaba/)
-- Email: [Gmail](chvbale15@gmail.com)
+- Email: [Email](mailto:chvbale15@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mysthogann&color=blueviolet)
 
