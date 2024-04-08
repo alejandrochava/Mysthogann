@@ -16,25 +16,25 @@ I'm Alejandro, a Software Engineering student deeply passionate about bridging t
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white))
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 ### Tools
-![Unity](https://img.shields.io/badge/-Unity-...?style=...&logo=unity)
-![HTML5](https://img.shields.io/badge/-HTML5-...?style=...&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-...?style=...&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-...?style=...&logo=mysql)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Currently Learning
-![React](https://img.shields.io/badge/-React-...?style=...&logo=react)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-...?style=...&logo=swift)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Operating Systems
-![macOS](https://img.shields.io/badge/-macOS-...?style=...&logo=apple)
-![Windows](https://img.shields.io/badge/-Windows-...?style=...&logo=windows)
-![Linux](https://img.shields.io/badge/-Linux-...?style=...&logo=linux)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📫 How to reach me:
 
