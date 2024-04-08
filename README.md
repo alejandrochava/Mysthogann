@@ -32,23 +32,14 @@ I'm Alejandro, a Software Engineering student deeply passionate about bridging t
 ![Swift](https://img.shields.io/badge/-Swift-...?style=...&logo=swift)
 
 ### Operating Systems
-![macOS](https://img.shields.io/badge/-macOS-...?style=...&logo=apple)
-![Windows](https://img.shields.io/badge/-Windows-...?style=...&logo=windows)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-...?style=...&logo=linux)
 
 ## 📫 How to reach me:
 
 - LinkedIn: [alejandrochavarria](https://www.linkedin.com/in/alejandrochavarriaba/)
 - Email: [Gmail](chvbale15@gmail.com)
-
-## 📈 GitHub Stats
-
-<details>
-  <summary>:chart_with_upwards_trend: Click to expand!</summary>
-
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mysthogann&show_icons=true&theme=radical)
-
-</details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Mysthogann&color=blueviolet)
 
