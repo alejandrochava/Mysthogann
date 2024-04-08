@@ -1,54 +1,54 @@
-<h1 align="center">Hi everyone, welcome to my profile <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+# Hi everyone, welcome to my profile 👋
 
-<p align="center">
-  <b>I'm Alejandro, a Software Engineering student</b><br><br>
-    <i>
-      Currently finishing my degree in Software Engineering as I learn more tools I'm interesed in and also building my portfolio.
-    </i>
-</p>
+I'm Alejandro, a Software Engineering student deeply passionate about bridging the gap between technology and user needs. I'm on my journey to master the craft of software development at Universidad Latina de Costa Rica and here's a glimpse into my world of code.
+
+## 📘 About Me
+- 🔭 I'm currently planning on how to build Taskify, aiming to create a tool to have a better organization of all my task.
+- 🌱 I’m learning JavaScript and Ruby to expand my full-stack development capabilities.
+- 👯 I’m looking to collaborate on open-source projects or tech for social good.
+- 🥅 2024 Goals: Expand my knowledge cloud-native development and refine my skills in some programming languages.
+- ⚡ Fun fact: When I'm not coding, I'm probably playing the guitar, doing taekwondo, in the gym or maybe playing some game.
+
+
+## 💼 Technical Skills
 
 ### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/-Python-...?style=...&logo=python)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/-Java-...?style=...&logo=java)
+![C#](https://img.shields.io/badge/-C%23-...?style=...&logo=c-sharp)
+
 
 ### Tools
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-...?style=...&logo=unity)
+![HTML5](https://img.shields.io/badge/-HTML5-...?style=...&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-...?style=...&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-...?style=...&logo=mysql)
 
-### Learning
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+### Currently Learning
+![React](https://img.shields.io/badge/-React-...?style=...&logo=react)
+![Rails](https://img.shields.io/badge/-Rails-...?style=...&logo=ruby-on-rails)
+![Swift](https://img.shields.io/badge/-Swift-...?style=...&logo=swift)
 
-### OS
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Operating Systems
+![macOS](https://img.shields.io/badge/-macOS-...?style=...&logo=apple)
+![Windows](https://img.shields.io/badge/-Windows-...?style=...&logo=windows)
+![Linux](https://img.shields.io/badge/-Linux-...?style=...&logo=linux)
 
+## 📫 How to reach me:
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/feed/)
+- Email: [Your Email](chvbale15@gmail.com)
+
+## 📈 GitHub Stats
 
 <details>
-<p align="center">
-  <a href="https://github.com/mysthogann">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysthogann&theme=transparent" />
-  </a>
-  <a href="https://github.com/mysthogann">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mysthogann&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/mysthogann">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mysthogann&theme=transparent" />
-  </a>
-  <a href="https://github.com/mysthogann">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mysthogann&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
+  <summary>:chart_with_upwards_trend: Click to expand!</summary>
+
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 </details>
 
-<p align="center">
-  <a href="https://github.com/mysthogann">
-    <img src="https://komarev.com/ghpvc/?username=mysthogann&color=blue&style=flat)" />
-  </a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+
+<!-- Credits to Shields.io for badges: https://shields.io/ -->
