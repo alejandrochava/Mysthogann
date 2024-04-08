@@ -13,10 +13,11 @@ I'm Alejandro, a Software Engineering student deeply passionate about bridging t
 ## 💼 Technical Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-...?style=...&logo=python)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/-Java-...?style=...&logo=java)
-![C#](https://img.shields.io/badge/-C%23-...?style=...&logo=c-sharp)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white))
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 ### Tools
@@ -27,7 +28,7 @@ I'm Alejandro, a Software Engineering student deeply passionate about bridging t
 
 ### Currently Learning
 ![React](https://img.shields.io/badge/-React-...?style=...&logo=react)
-![Rails](https://img.shields.io/badge/-Rails-...?style=...&logo=ruby-on-rails)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-...?style=...&logo=swift)
 
 ### Operating Systems
