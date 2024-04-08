@@ -7,7 +7,7 @@ I'm Alejandro, a Software Engineering student deeply passionate about bridging t
 - 🌱 I’m learning JavaScript and Ruby to expand my full-stack development capabilities.
 - 👯 I’m looking to collaborate on open-source projects or tech for social good.
 - 🥅 2024 Goals: Expand my knowledge cloud-native development and refine my skills in some programming languages.
-- ⚡ Fun fact: When I'm not coding, I'm probably playing the guitar, doing taekwondo, in the gym or maybe playing some game.
+- ⚡ Fun fact: When I'm not coding, I'm probably playing the guitar, doing taekwondo, in the gym or maybe playing some videogames.
 
 
 ## 💼 Technical Skills
