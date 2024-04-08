@@ -3,7 +3,7 @@
 I'm Alejandro, a Software Engineering student deeply passionate about bridging the gap between technology and user needs. I'm on my journey to master the craft of software development at Universidad Latina de Costa Rica and here's a glimpse into my world of code.
 
 ## 📘 About Me
-- 🔭 I'm currently planning on how to build Taskify, aiming to create a tool to have a better organization of all my task.
+- 🔭 I'm currently planning on how to build Taskify, aiming to create a tool to have a better organization of all my tasks.
 - 🌱 I’m learning JavaScript and Ruby to expand my full-stack development capabilities.
 - 👯 I’m looking to collaborate on open-source projects or tech for social good.
 - 🥅 2024 Goals: Expand my knowledge cloud-native development and refine my skills in some programming languages.
