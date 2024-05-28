@@ -4,9 +4,8 @@ I'm Alejandro, a Software Engineering student deeply passionate about bridging t
 
 ## 📘 About Me
 - 🔭 I'm currently planning on how to build Taskify, aiming to create a tool to have a better organization of all my tasks.
-- 🌱 I’m learning JavaScript and Ruby to expand my full-stack development capabilities.
-- 👯 I’m looking to collaborate on open-source projects or tech for social good.
-- 🥅 2024 Goals: Expand my knowledge cloud-native development and refine my skills in some programming languages.
+- 🌱 I’m learning AWS and Azure to expand my cloud development capabilities.
+- 🥅 2024 Goals: Expand my knowledge cloud-native development and refine my skills in Full Stack Development.
 - ⚡ Fun fact: When I'm not coding, I'm probably playing the guitar, doing taekwondo, in the gym or maybe playing some videogames.
 
 
@@ -21,14 +20,14 @@ I'm Alejandro, a Software Engineering student deeply passionate about bridging t
 
 
 ### Tools
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ### Currently Learning
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
