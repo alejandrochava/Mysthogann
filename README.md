@@ -1,4 +1,4 @@
-# Hi everyone, welcome to my profile 👋
+# Hi, welcome to my profile 👋
 
 I'm Alejandro, a Software Engineering student deeply passionate about bridging the gap between technology and user needs. I'm on my journey to master the craft of software development at Universidad Latina de Costa Rica and here's a glimpse into my world of code.
 
