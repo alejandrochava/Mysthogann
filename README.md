@@ -4,7 +4,7 @@ I'm Alejandro, a Software Engineering student deeply passionate about bridging t
 
 ## 📘 About Me
 - 🔭 I'm currently planning on how to a web app for cars on Costa Rica, focused on listing and search tools. I'm planning something similar to carmax.
-- 🌱 I’m learning taking the CS50 Introduction to IA with Python to dive further into the IA development world.
+- 🌱 I’m taking the CS50 Introduction to IA with Python to dive further into the IA development world.
 - 🥅 2024 Goals: Expand my knowledge cloud-native development, IA development.
 - ⚡ Fun fact: When I'm not coding, I'm probably playing the guitar, doing taekwondo, in the gym or maybe playing some videogames.
 
