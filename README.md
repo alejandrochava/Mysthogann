@@ -1,12 +1,13 @@
 # Hi, welcome to my profile 👋
 
-I'm Alejandro, a Software Engineering student deeply passionate about bridging the gap between technology and user needs. I'm on my journey to master the craft of software development at Universidad Latina de Costa Rica and here's a glimpse into my world of code.
+I'm Alejandro, a Software Engineer with a Bachelor's degree from Universidad Latina de Costa Rica, dedicated to bridging technology and user needs. I'm focused on perfecting my skills in software development, constantly building upon my foundation in languages like Python and JavaScript.
 
-## 📘 About Me
-- 🔭 I'm currently planning a web app for cars in Costa Rica, focused on listing and search tools, similar to Carmax.
-- 🌱 I’m taking the CS50 Introduction to AI with Python to dive further into the AI development world.
-- 🥅 2024 Goals: Further my experience in Rust, React and Node.
-- ⚡ Fun fact: When I'm not coding, I'm probably playing the guitar, doing taekwondo, in the gym, or maybe playing some video games.
+📘 About Me
+
+🔭 I'm currently developing a web app for the Costa Rican car market, aimed at listing and search tools, inspired by Carmax.
+🌱 I’m furthering my expertise in Python and JavaScript, and I'm taking the CS50 Introduction to AI with Python to dive deeper into AI.
+🥅 2024 Goals: Expand my experience in design, UI/UX.
+⚡ Fun fact: When I'm not coding, you’ll find me at the gym, reading a good book, or immersed in video games.
 
 ## 💼 Technical Skills
 
