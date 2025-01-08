@@ -4,11 +4,11 @@ I'm Alejandro, a Software Engineer with a Bachelor's degree from Universidad Lat
 
 📘 About Me
 
-🔭 I'm currently developing a web app for the Costa Rican car market, aimed at listing and search tools, inspired by Carmax.
+🔭 I'm currently developing a library for Music Scores, focusing on preserving information and having a great database of them.
 
-🌱 I’m furthering my expertise in Python and JavaScript, and I'm taking the CS50 Introduction to AI with Python to dive deeper into AI.
+🌱 I’m furthering my expertise in Python and JavaScript, in which I'll build most of my current planning projects.
 
-🥅 2024 Goals: Expand my experience in design, UI/UX.
+🥅 2025 Goals: Expand my experience in design, UI/UX and learn from scratch AI.
 
 ⚡ Fun fact: When I'm not coding, you’ll find me at the gym, reading a good book, or immersed in video games.
 
