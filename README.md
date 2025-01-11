@@ -6,9 +6,9 @@ I'm Alejandro, a Software Engineer with a Bachelor's degree from Universidad Lat
 
 🔝 I'm currently developing a library for Music Scores, focusing on preserving information and having a great database of them.
 
-🌱 I’m furthering my expertise in Python and JavaScript, in which I'll build most of my current planning projects.
+🌱 I’m furthering my expertise in Artificial Intelligence, focusing on machine learning, large language models, natural language processing, and neural networks.
 
-🦅 2025 Goals: Expand my experience in design, UI/UX, and learn AI from scratch.
+🦅 2025 Goals: Expand my knowledge in AI development and improve how I manage the flow of development in application design.
 
 ⚡ Fun fact: When I'm not coding, you’ll find me at the gym, reading a good book, or immersed in video games.
 
