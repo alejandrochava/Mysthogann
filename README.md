@@ -1,6 +1,6 @@
 # Hi, welcome to my profile 👋
 
-I'm Alejandro, a Software Engineer with a Bachelor's degree from Universidad Latina de Costa Rica, dedicated to bridging technology and user needs. I'm focused on perfecting my skills in software development, constantly building upon my foundation in languages like Python and JavaScript.
+I'm Alejandro, a Software Developer with a BSc in Software Engineering, dedicated to bridging technology and user needs. I'm focused on perfecting my skills in software development, constantly building upon my foundation in languages like Python and JavaScript.
 
 ## 📘 About Me
 
