@@ -1,14 +1,16 @@
-# Hi, welcome to my profile
+  # Hi, welcome to my profile
 
-  I'm Alejandro, a Full-Stack Developer with a BSc in Software Engineering, dedicated to building complete web solutions that bridge technology and user needs. I specialize in marketplace development and AI integration, combining clean architecture with intuitive user experiences.
+  I'm Alejandro, a Full-Stack Developer with a BSc in Software Engineering, dedicated to building complete web solutions that bridge technology and user needs. I specialize in crafting intuitive interfaces, smooth user flows, and visually refined experiences.
 
   ## About Me
 
-  **Currently building:** [Wellfred](https://app.wellfred.com) - an AI-powered wellness marketplace for Costa Rica featuring semantic search, real-time chat, and geospatial provider discovery.
+  **Currently building:** [Wellfred](https://app.wellfred.com) - an AI-powered wellness marketplace for Costa Rica featuring real-time chat and geospatial provider discovery.
 
-  **Learning:** Deepening my expertise in AI integration (LLMs, vector embeddings, semantic search) while building scalable full-stack systems with real-time capabilities and spatial databases.
+  **Focused on:** UI/UX design, creating beautiful web interfaces, and building seamless user experiences. I enjoy turning complex requirements into clean, intuitive flows that users love.
 
-  **2025 Goals:** Continue building production-grade marketplaces that leverage AI for intelligent search and recommendations, while exploring new patterns in real-time systems architecture.
+  **Exploring:** AI integration in web applications.
+
+  **Open to:** Contributing to interesting projects and collaborating with teams building meaningful products.
 
   **Fun fact:** When I'm not coding, you'll find me at the gym, reading a good book, or immersed in video games.
 
