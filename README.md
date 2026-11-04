@@ -2,43 +2,28 @@
 
 **Software engineer · Lead developer at [WellFred](https://app.wellfred.com) · Costa Rica**
 
-I work across full-stack engineering and UI/UX. I like interesting problems, thoughtful interfaces, and the details that make a product feel right. I focus on a few projects at a time so I can give each one the attention it deserves.
+I build web products with a focus on UI/UX and the details that make them feel right. I like interesting problems and focus on a few projects at a time so I can give each one the attention it deserves.
 
 [Portfolio](https://alejandrochavarria.dev) · [LinkedIn](https://www.linkedin.com/in/alejandrochavarriaba/) · [Email](mailto:chvbale15@gmail.com)
 
 ## Building WellFred
 
-WellFred is my main project, and I lead its development. We're building a services marketplace in Costa Rica, with the long-term goal of becoming a platform for the service economy across Latin America.
+My main project, where I lead development. We're connecting people with local services, classes, and experiences in Costa Rica, with a long-term vision of becoming a platform for Latin America's service economy.
 
-The work goes from helping people find and book services to giving providers the tools to run their businesses: catalogs, calendars, teams, and client management.
+[Explore WellFred](https://app.wellfred.com) · [Case study](https://alejandrochavarria.dev/projects/wellfred)
 
-Some of the engineering problems I work on:
+## More of my work
 
-- **Discovery:** semantic search and proximity search with PostgreSQL and PostGIS.
-- **Provider workflows:** availability, bookings, and scheduling across team members.
-- **Real-time communication:** WebSocket messaging with Laravel Reverb.
-- **UI/UX:** making complex provider tools approachable while keeping customer flows simple.
+- **[AutoVentaCR](https://alejandrochavarria.dev/projects/autoventa)** — A vehicle marketplace for Costa Rica, with side-by-side comparisons and tools for dealers to manage their inventory. Built with Nuxt and Vue.
+- **[Planora](https://alejandrochavarria.dev/projects/planora)** — Event discovery, ticketing, and QR passes across iOS, Android, and web. Built with React Native and Expo. *In development.*
+- **[MSL Music Library](https://alejandrochavarria.dev/projects/msl-music-library)** — A digital library for organizing, reading, and sharing sheet music. Built with React and Django. *In development.*
 
-The application uses **Laravel**, **Livewire**, **Alpine.js**, **Vue**, **Tailwind CSS**, **PostgreSQL / PostGIS**, **Redis**, and **Docker**. Public pages render on the server; Vue islands handle interfaces that need richer interaction.
+[See the projects and their case studies →](https://alejandrochavarria.dev/projects)
 
-[Explore WellFred](https://app.wellfred.com) · [Technical case study](https://alejandrochavarria.dev/projects/wellfred)
+**Open source:** [Hecho en CR](https://github.com/alejandrochava/hechoencr), a community directory for software made in Costa Rica. Built with Next.js and Supabase; contributions are welcome.
 
-## Code you can explore
+## Stack & interests
 
-### [Hecho en CR](https://github.com/alejandrochava/hechoencr)
+Usually working with **Laravel, Vue / Nuxt, React, TypeScript, and PostgreSQL**. Happy to talk about UI/UX, marketplace engineering, and building products with care.
 
-An open-source directory for software projects made in Costa Rica, with community voting and project ownership claims. Built with **Next.js**, **TypeScript**, **Supabase**, and **Tailwind CSS**.
-
-The repository includes a local Docker setup, contribution guidelines, and notes on ranking, authentication, and database access policies.
-
-[Browse the code](https://github.com/alejandrochava/hechoencr) · [Contribute](https://github.com/alejandrochava/hechoencr/blob/dev/CONTRIBUTING.md) · [More projects](https://alejandrochavarria.dev/projects)
-
-## What I care about
-
-- Clear user flows, deliberate interactions, and attention to loading, empty, and error states.
-- Reusable components, simple architecture, and dependencies that earn their place.
-- Tests around real user workflows and documentation that explains decisions.
-
-I'm happy to talk about marketplace architecture, Laravel, UI/UX, and the details of building a product over time. [Get in touch](mailto:chvbale15@gmail.com).
-
-Away from the keyboard, you'll usually find me at the gym or playing guitar.
+Away from the keyboard, you'll usually find me at the gym or playing guitar. [Get in touch](mailto:chvbale15@gmail.com).
