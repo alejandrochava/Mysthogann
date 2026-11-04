@@ -1,78 +1,44 @@
-  # Hi, welcome to my profile
+# Alejandro Chavarria
 
-  I'm Alejandro, a Full-Stack Developer with a BSc in Software Engineering, dedicated to building complete web solutions that bridge technology and user needs. I specialize in crafting intuitive interfaces, smooth user flows, and visually refined experiences.
+**Software engineer · Lead developer at [WellFred](https://app.wellfred.com) · Costa Rica**
 
-  ## About Me
+I work across full-stack engineering and UI/UX. I like interesting problems, thoughtful interfaces, and the details that make a product feel right. I focus on a few projects at a time so I can give each one the attention it deserves.
 
-  **Currently building:** [Wellfred](https://app.wellfred.com) - an AI-powered wellness marketplace for Costa Rica featuring real-time chat and geospatial provider discovery.
+[Portfolio](https://alejandrochavarria.dev) · [LinkedIn](https://www.linkedin.com/in/alejandrochavarriaba/) · [Email](mailto:chvbale15@gmail.com)
 
-  **Focused on:** UI/UX design, creating beautiful web interfaces, and building seamless user experiences. I enjoy turning complex requirements into clean, intuitive flows that users love.
+## Building WellFred
 
-  **Exploring:** AI integration in web applications.
+WellFred is my main project, and I lead its development. We're building a services marketplace in Costa Rica, with the long-term goal of becoming a platform for the service economy across Latin America.
 
-  **Open to:** Contributing to interesting projects and collaborating with teams building meaningful products.
+The work goes from helping people find and book services to giving providers the tools to run their businesses: catalogs, calendars, teams, and client management.
 
-  **Fun fact:** When I'm not coding, you'll find me at the gym, reading a good book, or immersed in video games.
+Some of the engineering problems I work on:
 
-  ---
+- **Discovery:** semantic search and proximity search with PostgreSQL and PostGIS.
+- **Provider workflows:** availability, bookings, and scheduling across team members.
+- **Real-time communication:** WebSocket messaging with Laravel Reverb.
+- **UI/UX:** making complex provider tools approachable while keeping customer flows simple.
 
-  ## Technical Skills
+The application uses **Laravel**, **Livewire**, **Alpine.js**, **Vue**, **Tailwind CSS**, **PostgreSQL / PostGIS**, **Redis**, and **Docker**. Public pages render on the server; Vue islands handle interfaces that need richer interaction.
 
-  ### Core Stack
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[Explore WellFred](https://app.wellfred.com) · [Technical case study](https://alejandrochavarria.dev/projects/wellfred)
 
-  ### Languages
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+## Code you can explore
 
-  ### Frameworks & Libraries
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
-  ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+### [Hecho en CR](https://github.com/alejandrochava/hechoencr)
 
-  ### Databases & Caching
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+An open-source directory for software projects made in Costa Rica, with community voting and project ownership claims. Built with **Next.js**, **TypeScript**, **Supabase**, and **Tailwind CSS**.
 
-  ### Tools & Platforms
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Railway](https://img.shields.io/badge/railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
+The repository includes a local Docker setup, contribution guidelines, and notes on ranking, authentication, and database access policies.
 
-  ---
+[Browse the code](https://github.com/alejandrochava/hechoencr) · [Contribute](https://github.com/alejandrochava/hechoencr/blob/dev/CONTRIBUTING.md) · [More projects](https://alejandrochavarria.dev/projects)
 
-  ## Featured Projects
+## What I care about
 
-  ### [Wellfred](https://app.wellfred.com)
-  AI-powered wellness marketplace with semantic search, real-time WebSocket chat, and geospatial provider discovery.
-  **Stack:** Laravel 12, Livewire 3, PostgreSQL, PostGIS, Redis, Google Gemini
+- Clear user flows, deliberate interactions, and attention to loading, empty, and error states.
+- Reusable components, simple architecture, and dependencies that earn their place.
+- Tests around real user workflows and documentation that explains decisions.
 
-  ### [Centralized Studio](https://centralizedstudio.com)
-  Interactive platform for restaurants to explore and select professional audiovisual production packages.
-  **Stack:** Nuxt.js, Vue.js, Tailwind CSS
+I'm happy to talk about marketplace architecture, Laravel, UI/UX, and the details of building a product over time. [Get in touch](mailto:chvbale15@gmail.com).
 
-  ### [MSL Music Library](https://msl-wine.vercel.app)
-  Comprehensive digital library platform for musicians with batch uploads, rich metadata, and collaboration features.
-  **Stack:** React 18, TypeScript, Django, PostgreSQL, Redis
-
-  ---
-
-  ## How to reach me
-  - LinkedIn: [alejandrochavarria](https://www.linkedin.com/in/alejandrochavarriaba/)
-  - Email: [chvbale15@gmail.com](mailto:chvbale15@gmail.com)
-  - Portfolio: [alejandrochavarria.pages.dev](https://alejandrochavarria.pages.dev)
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=Mysthogann&color=blueviolet)
+Away from the keyboard, you'll usually find me at the gym or playing guitar.
